@@ -1,0 +1,25 @@
+main{
+    font-family: 'Poppins', sans-serif;
+    padding:0;
+    margin: 40px;;
+}
+
+.buscar{
+    width: 100%;
+    background: #000000;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+input{
+    width: 90%;
+    height: 50px;
+    padding-left: 20px;
+    font-size:22px;
+    border:1px solid #ffffff;
+    margin:15px;
+    border-radius:5px;
+}
