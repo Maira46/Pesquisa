@@ -1,4 +1,4 @@
-const apiUrl = 'https://jsonserver-1.geoprtu.repl.co/instituicoes';
+const apiUrl = 'https://jsoninstituicoes.geoprtu.repl.co/instituicoes';
 const listaOngs = document.getElementById('listaOngs');
 const inputBusca = document.getElementById('inputBusca');
 
